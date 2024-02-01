@@ -1,4 +1,4 @@
-package csvtojson
+package dataX
 
 type DataX struct{
 	CurrentName string `json:"currentName"`

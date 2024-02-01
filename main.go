@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/brightnc/repo-list-to-json/csvtojson"
+	"github.com/BrightCloudNC/repo-list-to-json/csvtojson"
 )
 
 func main(){
